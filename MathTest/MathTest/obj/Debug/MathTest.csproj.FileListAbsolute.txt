@@ -1,0 +1,9 @@
+H:\Programming 12\MathTest\MathTest\bin\Debug\MathTest.exe.config
+H:\Programming 12\MathTest\MathTest\bin\Debug\MathTest.exe
+H:\Programming 12\MathTest\MathTest\bin\Debug\MathTest.pdb
+H:\Programming 12\MathTest\MathTest\obj\Debug\MathTest.Form1.resources
+H:\Programming 12\MathTest\MathTest\obj\Debug\MathTest.Properties.Resources.resources
+H:\Programming 12\MathTest\MathTest\obj\Debug\MathTest.csproj.GenerateResource.Cache
+H:\Programming 12\MathTest\MathTest\obj\Debug\MathTest.exe
+H:\Programming 12\MathTest\MathTest\obj\Debug\MathTest.pdb
+H:\Programming 12\MathTest\MathTest\obj\Debug\MathTest.csprojResolveAssemblyReference.cache
